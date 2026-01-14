@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="landing_page.png" alt="REZiT Interface" width="100%" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/React-19-blue?logo=react&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/Node.js-20.x-green?logo=nodedotjs&style=for-the-badge" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-5.x-lightgrey?logo=express&style=for-the-badge" alt="Express">
@@ -21,6 +17,10 @@
   <img src="https://img.shields.io/badge/Security-Anti--Hoarding-red?style=for-the-badge" alt="Security">
   <img src="https://img.shields.io/badge/Protection-Rate_Limiting-orange?style=for-the-badge" alt="Rate Limit">
   <img src="https://img.shields.io/badge/Validation-Express--Validator-yellow?style=for-the-badge" alt="Validation">
+</p>
+
+<p align="center">
+  <img src="landing_page.png" alt="REZiT Interface" width="100%" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);" />
 </p>
 
 ---
