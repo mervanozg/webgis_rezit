@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="landing_page.png" alt="REZiT Interface" width="100%" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-19-blue?logo=react&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/Node.js-20.x-green?logo=nodedotjs&style=for-the-badge" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-5.x-lightgrey?logo=express&style=for-the-badge" alt="Express">
@@ -56,17 +60,29 @@ Platform sahibinin tüm ekosistemi yönettiği "Süper Yönetici Modu".
 * Kategori ve fiyatlandırma şablonları oluşturma.
 * Şifreli (`bcrypt`) API anahtarları üretme.
 
+ <p align="center">
+  <img src="super_admin.png" alt="Super Admin Panel" width="90%" style="border-radius: 8px; border: 1px solid #333;" />
+</p>
+
 ### 2. 👔 Mekan Yöneticisi (Admin Paneli)
 İşletme sahibinin kendi mekanını yönettiği panel.
 * **Canlı Dashboard:** Doluluk oranlarını ve anlık rezervasyonları canlı izleme.
 * **Rezervasyon Yönetimi:** Gelen talepleri onaylama, iptal etme veya düzenleme.
 * **Etkinlik & Fiyatlandırma:** Konser oluşturma veya masa fiyatlarını anlık değiştirme.
 
+  <p align="center">
+  <img src="admin.png" alt="Venue Manager Panel" width="90%" style="border-radius: 8px; border: 1px solid #333;" />
+</p>
+
 ### 3. 🎟️ Müşteri Arayüzü (Rezervasyon Paneli)
 Son kullanıcının rezervasyon yaptığı modern ön yüz.
 * Görsel haritadan yer seçimi.
 * Güvenli ve hatasız (Input Masking) form girişi.
 * "Rezervasyonlarım" ekranından sorgulama ve iptal işlemleri.
+
+  <p align="center">
+  <img src="customer.png" alt="Customer Reservation Interface" width="90%" style="border-radius: 8px; border: 1px solid #333;" />
+</p>
 
 ---
 
