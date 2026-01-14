@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="REZIT Logo" width="400" />
+  <img src="logo.png" alt="REZIT Logo" width="400" />
 </p>
 
 <h1 align="center">REZIT • Luxury Reservations</h1>
