@@ -4,6 +4,8 @@
 
 <h1 align="center">REZIT • Luxury Reservations</h1>
 
+## Live: http://13.60.187.41/
+
 <p align="center">
   <strong>Görsel harita tabanlı, lüks mekanlar ve etkinlikler için tasarlanmış, yüksek güvenlikli SaaS rezervasyon platformu.</strong>
 </p>
